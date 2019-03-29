@@ -1,0 +1,7 @@
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\bin\Debug\LivrariaDB.dacpac
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\Model.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\refactor.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\postdeploy.sql
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\predeploy.sql
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\LivrariaDB.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\LivrariaDB\LivrariaDB\obj\Debug\LivrariaDB.pdb

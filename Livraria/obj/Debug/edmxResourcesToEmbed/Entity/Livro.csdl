@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Livro" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="LivroContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Livro" EntityType="Livro.Livro" />
+    <EntitySet Name="Autor" EntityType="Livro.Autor" />
+    <AssociationSet Name="AutorLivro" Association="Livro.AutorLivro">
+      <End Role="Autor" EntitySet="Autor" />
+      <End Role="Livro" EntitySet="Livro" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Livro">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" annotation:StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ISBN" Type="Int32" Nullable="false" />
+    <Property Name="Nome" Type="String" Nullable="false" />
+    <Property Name="Preco" Type="Decimal" Nullable="false" />
+    <Property Name="DataPublicacao" Type="DateTime" Nullable="false" />
+    <Property Name="ImagemCapa" Type="Binary" Nullable="false" />
+    <NavigationProperty Name="Autor" Relationship="Livro.AutorLivro" FromRole="Livro" ToRole="Autor" />
+    <Property Name="IdAutor" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Autor">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nome" Type="String" Nullable="false" />
+    <NavigationProperty Name="Livro" Relationship="Livro.AutorLivro" FromRole="Autor" ToRole="Livro" />
+  </EntityType>
+  <Association Name="AutorLivro">
+    <End Type="Livro.Autor" Role="Autor" Multiplicity="1" />
+    <End Type="Livro.Livro" Role="Livro" Multiplicity="*" />
+  </Association>
+</Schema>

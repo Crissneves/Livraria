@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -Livraria</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    @{Html.RenderPartial("_Header"); }
+
+    <main role="main">
+        <section class="jumbotron text-center">
+            <div class="container">
+                <h1 class="jumbotron-heading">Livraria app</h1>
+                <p class="lead text-muted">Cadastre os livros com uma breve descrição,  título, autor, preço e o código ISBN.</p>
+                <p>
+                    @Html.ActionLink("Cadastrar um novo livro", "Index", "Livros", null, new { @class = "btn btn-primary my-2" })
+                </p>
+            </div>
+        </section>       
+    </main>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    <footer class="text-muted">
+        <div class="container">
+            <p class="float-right">
+                <a href="#">Voltar para o topo</a>
+            </p>
+            <p>&copy; @DateTime.Now.Year - Desenvolvido por Cristiane Neves</p>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

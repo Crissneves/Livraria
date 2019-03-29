@@ -1,0 +1,169 @@
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Livraria.dll.config
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Livraria.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Livraria.pdb
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Antlr3.Runtime.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\EntityFramework.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\EntityFramework.SqlServer.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Newtonsoft.Json.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Owin.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Helpers.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Mvc.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Optimization.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Razor.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.Razor.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\WebGrease.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Helpers.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Mvc.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Optimization.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.Razor.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\System.Web.WebPages.Razor.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Antlr3.Runtime.pdb
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Newtonsoft.Json.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\EntityFramework.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\EntityFramework.SqlServer.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.dll
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\ntr9\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.csprojResolveAssemblyReference.cache
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Livraria.dll.config
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Livraria.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Livraria.pdb
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Antlr3.Runtime.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\EntityFramework.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\EntityFramework.SqlServer.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Newtonsoft.Json.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Owin.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Helpers.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Mvc.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Optimization.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Razor.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\WebGrease.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Helpers.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Mvc.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Optimization.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.Razor.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Antlr3.Runtime.pdb
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Newtonsoft.Json.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\EntityFramework.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\EntityFramework.SqlServer.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\obj\Debug\Livraria.csproj.CopyComplete
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\obj\Debug\Livraria.dll
+C:\Users\paulo.sieiro\Documents\Visual Studio 2017\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Livraria.dll.config
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Livraria.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Livraria.pdb
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Antlr3.Runtime.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\EntityFramework.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\EntityFramework.SqlServer.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Newtonsoft.Json.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Owin.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Helpers.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Mvc.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Optimization.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Razor.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\WebGrease.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Helpers.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Mvc.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Optimization.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.Razor.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Antlr3.Runtime.pdb
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Newtonsoft.Json.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\EntityFramework.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\EntityFramework.SqlServer.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\obj\Debug\Livraria.csproj.CopyComplete
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\obj\Debug\Livraria.dll
+C:\Users\paulo.sieiro\Source\Repos\Crissneves\Livraria\Livraria\obj\Debug\Livraria.pdb

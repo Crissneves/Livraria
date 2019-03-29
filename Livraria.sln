@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria", "Livraria\Livraria.csproj", "{C6FC9797-5B6E-43D8-9009-5455F544246C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Tests", "Livraria.Tests\Livraria.Tests.csproj", "{6C007476-C54B-4370-9B70-1F70B003E688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FC9797-5B6E-43D8-9009-5455F544246C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FC9797-5B6E-43D8-9009-5455F544246C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FC9797-5B6E-43D8-9009-5455F544246C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FC9797-5B6E-43D8-9009-5455F544246C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C007476-C54B-4370-9B70-1F70B003E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C007476-C54B-4370-9B70-1F70B003E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C007476-C54B-4370-9B70-1F70B003E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C007476-C54B-4370-9B70-1F70B003E688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
